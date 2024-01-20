@@ -1,0 +1,82 @@
+2024-01-11 10:20:46,807 [main] INFO CoverFoxInsurance - Clicking on Femail button
+2024-01-11 10:35:48,225 [main] INFO CoverFoxInsurance - Launching CoverFox
+2024-01-11 10:35:51,455 [main] INFO CoverFoxInsurance - Clicking on Femail button
+2024-01-11 10:35:54,549 [main] INFO CoverFoxInsurance - Clicking on next button
+2024-01-11 10:35:59,335 [main] INFO CoverFoxInsurance - Handaling dropdown
+2024-01-11 10:36:02,573 [main] INFO CoverFoxInsurance - Clicking on next button
+2024-01-11 10:36:03,795 [main] INFO CoverFoxInsurance - Enter Pincode
+2024-01-11 10:36:04,293 [main] INFO CoverFoxInsurance - Enter Mob. Number
+2024-01-11 10:36:04,726 [main] INFO CoverFoxInsurance - Clicking on continue button
+2024-01-11 10:36:13,049 [main] INFO CoverFoxInsurance - Fetching result from text
+2024-01-11 10:36:18,171 [main] INFO CoverFoxInsurance - Fetching result from banner
+2024-01-11 10:36:21,336 [main] INFO CoverFoxInsurance - TC is Pass both are equal
+2024-01-11 10:36:24,481 [main] INFO CoverFoxInsurance - TC is Pass sort plan is present
+2024-01-11 10:36:39,928 [main] INFO CoverFoxInsurance - Closing the Browser
+2024-01-11 10:40:53,171 [main] INFO CoverFoxInsurance - Launching CoverFox
+2024-01-11 10:40:56,699 [main] INFO CoverFoxInsurance - Clicking on Femail button
+2024-01-11 10:41:03,727 [main] INFO CoverFoxInsurance - Clicking on next button
+2024-01-11 10:41:06,224 [main] INFO CoverFoxInsurance - Handeling drop down
+2024-01-11 10:41:11,545 [main] INFO CoverFoxInsurance - Clicking on next button
+2024-01-11 10:41:12,759 [main] INFO CoverFoxInsurance - Enter Pin code
+2024-01-11 10:41:13,863 [main] INFO CoverFoxInsurance - Enter Mob. Number
+2024-01-11 10:41:14,588 [main] INFO CoverFoxInsurance - Clicking on continue button
+2024-01-11 10:41:23,020 [main] INFO CoverFoxInsurance - Fetching result from text
+2024-01-11 10:41:28,185 [main] INFO CoverFoxInsurance - Fetching result from banner
+2024-01-11 10:41:31,367 [main] INFO CoverFoxInsurance - TC is Pass both are equal
+2024-01-11 10:41:34,549 [main] INFO CoverFoxInsurance - TC is Pass sort plan is present
+2024-01-11 10:41:50,475 [main] INFO CoverFoxInsurance - Closing the Browser
+2024-01-11 10:45:36,441 [main] INFO CoverFoxInsurance - Launching CoverFox
+2024-01-11 10:45:41,302 [main] INFO CoverFoxInsurance - Clicking on Femail button
+2024-01-11 10:45:48,492 [main] INFO CoverFoxInsurance - Clicking on next button
+2024-01-18 14:23:51,717 [main] INFO CoverFoxInsurance - Launching CoverFox
+2024-01-18 14:23:54,973 [main] INFO CoverFoxInsurance - Clicking on Femail button
+2024-01-18 14:24:04,537 [main] INFO CoverFoxInsurance - Clicking on next button
+2024-01-18 14:24:08,652 [main] INFO CoverFoxInsurance - Handeling drop down
+2024-01-18 14:24:18,014 [main] INFO CoverFoxInsurance - Clicking on next button
+2024-01-18 14:24:19,265 [main] INFO CoverFoxInsurance - Enter Pin code
+2024-01-18 14:24:20,454 [main] INFO CoverFoxInsurance - Enter Mob. Number
+2024-01-18 14:24:21,222 [main] INFO CoverFoxInsurance - Clicking on continue button
+2024-01-18 14:24:29,763 [main] INFO CoverFoxInsurance - Fetching result from text
+2024-01-18 14:24:36,218 [main] INFO CoverFoxInsurance - Fetching result from banner
+2024-01-18 14:24:39,369 [main] INFO CoverFoxInsurance - TC is Pass both are equal
+2024-01-18 14:24:42,534 [main] INFO CoverFoxInsurance - TC is Pass sort plan is present
+2024-01-18 14:24:58,026 [main] INFO CoverFoxInsurance - Closing the Browser
+2024-01-18 15:17:17,300 [main] INFO CoverFoxInsurance - Launching CoverFox
+2024-01-18 15:17:20,566 [main] INFO CoverFoxInsurance - Clicking on Femail button
+2024-01-18 15:17:22,866 [main] INFO CoverFoxInsurance - Clicking on next button
+2024-01-18 15:17:25,942 [main] INFO CoverFoxInsurance - Handeling drop down
+2024-01-18 15:17:33,239 [main] INFO CoverFoxInsurance - Clicking on next button
+2024-01-18 15:17:34,442 [main] INFO CoverFoxInsurance - Enter Pin code
+2024-01-18 15:17:35,157 [main] INFO CoverFoxInsurance - Enter Mob. Number
+2024-01-18 15:17:35,724 [main] INFO CoverFoxInsurance - Clicking on continue button
+2024-01-18 15:17:44,184 [main] INFO CoverFoxInsurance - Fetching result from text
+2024-01-18 15:17:49,399 [main] INFO CoverFoxInsurance - Fetching result from banner
+2024-01-18 15:17:52,524 [main] INFO CoverFoxInsurance - TC is Pass both are equal
+2024-01-18 15:17:55,771 [main] INFO CoverFoxInsurance - TC is Pass sort plan is present
+2024-01-18 15:18:11,338 [main] INFO CoverFoxInsurance - Closing the Browser
+2024-01-20 13:19:57,647 [main] INFO CoverFoxInsurance - Launching CoverFox
+2024-01-20 13:20:01,808 [main] INFO CoverFoxInsurance - Clicking on Femail button
+2024-01-20 13:20:05,253 [main] INFO CoverFoxInsurance - Clicking on next button
+2024-01-20 13:20:06,830 [main] INFO CoverFoxInsurance - Handeling drop down
+2024-01-20 13:20:11,082 [main] INFO CoverFoxInsurance - Clicking on next button
+2024-01-20 13:20:12,243 [main] INFO CoverFoxInsurance - Enter Pin code
+2024-01-20 13:20:12,787 [main] INFO CoverFoxInsurance - Enter Mob. Number
+2024-01-20 13:20:13,260 [main] INFO CoverFoxInsurance - Clicking on continue button
+2024-01-20 13:20:21,566 [main] INFO CoverFoxInsurance - Fetching result from text
+2024-01-20 13:20:26,706 [main] INFO CoverFoxInsurance - Fetching result from banner
+2024-01-20 13:20:29,788 [main] INFO CoverFoxInsurance - TC is Pass both are equal
+2024-01-20 13:20:33,352 [main] INFO CoverFoxInsurance - TC is Pass sort plan is present
+2024-01-20 13:20:49,100 [main] INFO CoverFoxInsurance - Closing the Browser
+2024-01-20 13:45:31,397 [main] INFO CoverFoxInsurance - Launching CoverFox
+2024-01-20 13:45:34,720 [main] INFO CoverFoxInsurance - Clicking on Femail button
+2024-01-20 13:45:39,316 [main] INFO CoverFoxInsurance - Clicking on next button
+2024-01-20 13:45:50,849 [main] INFO CoverFoxInsurance - Handeling drop down
+2024-01-20 13:45:57,151 [main] INFO CoverFoxInsurance - Clicking on next button
+2024-01-20 13:45:58,964 [main] INFO CoverFoxInsurance - Enter Pin code
+2024-01-20 13:46:00,270 [main] INFO CoverFoxInsurance - Enter Mob. Number
+2024-01-20 13:46:01,405 [main] INFO CoverFoxInsurance - Clicking on continue button
+2024-01-20 13:46:10,139 [main] INFO CoverFoxInsurance - Fetching result from text
+2024-01-20 13:46:15,698 [main] INFO CoverFoxInsurance - Fetching result from banner
+2024-01-20 13:46:18,983 [main] INFO CoverFoxInsurance - TC is Pass both are equal
+2024-01-20 13:46:22,322 [main] INFO CoverFoxInsurance - TC is Pass sort plan is present
+2024-01-20 13:46:37,995 [main] INFO CoverFoxInsurance - Closing the Browser

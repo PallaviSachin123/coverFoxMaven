@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<listeners>
+		<listener class-name="listenler.ExtentReporterNG"></listener>
+		<listener class-name="listenler.ListenerUse"></listener>
+	</listeners>
+	
+  <test thread-count="5" name="Test">
+    <classes>
+     <class name="coverFoxTest.CF_TC555_validate_search_result_for_healthcare_policies"/>
+     <class name="coverFoxTest.TC_CheackErrorMsg"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

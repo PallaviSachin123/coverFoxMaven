@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Launching CoverFox]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Gender Button]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on next button]]>
+    </line>
+    <line>
+      <![CDATA[Handaling age dropdown ]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on next button]]>
+    </line>
+    <line>
+      <![CDATA[Enter pincode number]]>
+    </line>
+    <line>
+      <![CDATA[Enter Mobile number]]>
+    </line>
+    <line>
+      <![CDATA[Click on continue button]]>
+    </line>
+    <line>
+      <![CDATA[TC validateTestPlanFromTextAndBanner Excution Stared]]>
+    </line>
+    <line>
+      <![CDATA[Fetching result from text]]>
+    </line>
+    <line>
+      <![CDATA[Fetching result from banner]]>
+    </line>
+    <line>
+      <![CDATA[TC is Pass both are equal]]>
+    </line>
+    <line>
+      <![CDATA[TC is Pass sort plan is present]]>
+    </line>
+    <line>
+      <![CDATA[Taking ScreenShot]]>
+    </line>
+    <line>
+      <![CDATA[TC validateTestPlanFromTextAndBanner Excution Success]]>
+    </line>
+    <line>
+      <![CDATA[Closing Browser]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-01-11T10:40:37 IST" name="Default suite" finished-at="2024-01-11T10:41:53 IST" duration-ms="76191">
+    <groups>
+    </groups>
+    <test started-at="2024-01-11T10:40:37 IST" name="Default test" finished-at="2024-01-11T10:41:53 IST" duration-ms="76191">
+      <class name="coverFoxTest.CF_TC555_validate_search_result_for_healthcare_policies">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:coverFoxTest.CF_TC555_validate_search_result_for_healthcare_policies@4c12331b]" started-at="2024-01-11T10:40:37 IST" name="launchBrowser" finished-at="2024-01-11T10:40:56 IST" duration-ms="19190" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching CoverFox]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="enterMemberDetails()[pri:0, instance:coverFoxTest.CF_TC555_validate_search_result_for_healthcare_policies@4c12331b]" started-at="2024-01-11T10:40:56 IST" name="enterMemberDetails" finished-at="2024-01-11T10:41:15 IST" duration-ms="19223" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on Gender Button]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on next button]]>
+            </line>
+            <line>
+              <![CDATA[Handaling age dropdown ]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on next button]]>
+            </line>
+            <line>
+              <![CDATA[Enter pincode number]]>
+            </line>
+            <line>
+              <![CDATA[Enter Mobile number]]>
+            </line>
+            <line>
+              <![CDATA[Click on continue button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- enterMemberDetails -->
+        <test-method signature="validateTestPlanFromTextAndBanner()[pri:0, instance:coverFoxTest.CF_TC555_validate_search_result_for_healthcare_policies@4c12331b]" started-at="2024-01-11T10:41:15 IST" name="validateTestPlanFromTextAndBanner" finished-at="2024-01-11T10:41:40 IST" duration-ms="24081" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[TC validateTestPlanFromTextAndBanner Excution Stared]]>
+            </line>
+            <line>
+              <![CDATA[Fetching result from text]]>
+            </line>
+            <line>
+              <![CDATA[Fetching result from banner]]>
+            </line>
+            <line>
+              <![CDATA[TC is Pass both are equal]]>
+            </line>
+            <line>
+              <![CDATA[TC is Pass sort plan is present]]>
+            </line>
+            <line>
+              <![CDATA[Taking ScreenShot]]>
+            </line>
+            <line>
+              <![CDATA[TC validateTestPlanFromTextAndBanner Excution Success]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateTestPlanFromTextAndBanner -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:coverFoxTest.CF_TC555_validate_search_result_for_healthcare_policies@4c12331b]" started-at="2024-01-11T10:41:40 IST" name="closeBrowser" finished-at="2024-01-11T10:41:53 IST" duration-ms="13470" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Closing Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- coverFoxTest.CF_TC555_validate_search_result_for_healthcare_policies -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
